@@ -1,3 +1,3 @@
 # Newdemoproject
 This is my first demo project
-Auther - Jagdish 
+Auther - Jagdish Gour
